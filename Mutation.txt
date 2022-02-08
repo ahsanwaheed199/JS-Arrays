@@ -1,0 +1,6 @@
+
+// Mutable is a type of variable that can be changed.
+// In JavaScript, only objects and arrays are mutable, not primitive values.
+
+// A mutable object is an object whose state can be modified after it is created.
+// Strings and Numbers are Immutable.
