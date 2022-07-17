@@ -1,3 +1,7 @@
+//A deep copy means that all of the values of the new variable are copied and disconnected from the original variable.
+//A shallow copy means that certain (sub-)values are still connected to the original variable.
+//To really understand copying, you have to get into how JavaScript stores values.
+
 // shallow copy : copying one top level element. it does not provide the reference in top level but provide in
 // nested level so it  change the nested level of array/object.
 
